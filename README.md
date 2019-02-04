@@ -4,10 +4,14 @@
 
 requiment modules:
 
+windows : 
+
 python -m pip install bs4
+
 python -m pip install colorama
 
-run script:
+linux:
 
-python UltraCF.py
+pip install bs4
 
+pip install colorama
